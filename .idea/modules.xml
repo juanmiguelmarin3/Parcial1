@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Parcial1Disp.iml" filepath="$PROJECT_DIR$/.idea/modules/Parcial1Disp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Parcial1Disp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Parcial1Disp.app.iml" />
+    </modules>
+  </component>
+</project>
